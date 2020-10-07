@@ -1,0 +1,41 @@
+body {
+	background-color: #373737;
+}
+
+.nav-link {
+	color: white !important;
+	font-weight: bold;
+	font-family: ARVO;
+	font-size: 20px;
+}
+
+#autumnphoto {
+	height: 600px;
+	width: 100%;
+	padding-left: 100px;
+	padding-right: 100px;
+	margin-top: 30px;
+}
+
+.container .row .col h3 {
+	background-color: #303030;
+	color: white;
+}
+
+.col p {
+	color: white;
+}
+
+.container {
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+#copyright-page-footer {
+	background-color: white;
+}
+
+#copyright-page-footer a {
+	text-decoration: none;
+	color: orange;
+}
